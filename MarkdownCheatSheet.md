@@ -30,7 +30,7 @@ int i = 0; //コード
 </pre>
 ---
 ## リンク
-例：[Qiita](http://qiita.com/)
+例：[mio.yokohama](https://mio.yokohama/)
 ---
 ## 引用
 > テキスト
